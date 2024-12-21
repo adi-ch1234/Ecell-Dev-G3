@@ -1,2 +1,8 @@
 # Ecell-Dev-G3
-Aachman, Aditya, Nishchal, Dhruv, Akash, Nitesh
+Group Members -> 
+Aachman
+Aditya
+Nishchal 
+Dhruv
+Akash
+Nitesh
